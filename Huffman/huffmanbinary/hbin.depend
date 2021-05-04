@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1576980808 source:c:\users\user\desktop\hbin\main.cpp
+	<iostream>
+	<stdlib.h>
+	"huffman.h"
+	<unistd.h>
+	<time.h>
+	<algorithm>
+	<fstream>
+	<vector>
+	<sstream>
+	<iomanip>
+	<string.h>
+	<stdio.h>
+
+1576980089 c:\users\user\desktop\hbin\huffman.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1576980418 source:c:\users\user\desktop\hbin\huffman.cpp
+	"huffman.h"
+	<fstream>
+	<sstream>
+	<string.h>
+	<bitset>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	<fstream>
+	<iterator>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1577050752 source:c:\users\user\desktop\algorithm\hbin\huffman.cpp
+	"huffman.h"
+	<fstream>
+	<sstream>
+	<string.h>
+	<bitset>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+	<fstream>
+	<iterator>
+	<string>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1576980089 c:\users\user\desktop\algorithm\hbin\huffman.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1577101666 source:c:\users\user\desktop\algorithm\hbin\main.cpp
+	<iostream>
+	<stdlib.h>
+	"huffman.h"
+	<unistd.h>
+	<time.h>
+	<algorithm>
+	<fstream>
+	<vector>
+	<sstream>
+	<iomanip>
+	<string.h>
+	<stdio.h>
+

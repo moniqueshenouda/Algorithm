@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1577103117 source:c:\users\user\desktop\hufffol\coding.cpp
+	"huffman.h"
+	"huffmandec.h"
+	<fstream>
+	<sstream>
+	<string.h>
+	<bitset>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1577101475 c:\users\user\desktop\hufffol\huffman.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1577101475 c:\users\user\desktop\hufffol\huffmandec.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1577101555 source:c:\users\user\desktop\hufffol\main.cpp
+	<iostream>
+	<stdlib.h>
+	"huffman.h"
+	"huffmandec.h"
+	<unistd.h>
+	<time.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<dirent.h>
+	<sys/types.h>
+	<string>
+	<stdio.h>
+	<string.h>
+	<iomanip>
+

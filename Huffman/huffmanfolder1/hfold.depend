@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1576981811 source:c:\users\user\desktop\hfold\coding.cpp
+	"huffman.h"
+	"huffmandec.h"
+	<fstream>
+	<sstream>
+	<string.h>
+	<bitset>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1576981811 c:\users\user\desktop\hfold\huffman.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1576981811 c:\users\user\desktop\hfold\huffmandec.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1576981943 source:c:\users\user\desktop\hfold\main.cpp
+	<iostream>
+	<stdlib.h>
+	"huffman.h"
+	"huffmandec.h"
+	<unistd.h>
+	<time.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<dirent.h>
+	<sys/types.h>
+	<string>
+	<stdio.h>
+	<string.h>
+	<iomanip>
+
+1577101020 source:c:\users\user\desktop\algorithm\hfold\coding.cpp
+	"huffman.h"
+	"huffmandec.h"
+	<fstream>
+	<sstream>
+	<string.h>
+	<bitset>
+	<iostream>
+	<stdlib.h>
+	<unistd.h>
+
+1576981811 c:\users\user\desktop\algorithm\hfold\huffman.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1576981811 c:\users\user\desktop\algorithm\hfold\huffmandec.h
+	<string>
+	<queue>
+	<vector>
+	<fstream>
+
+1577101170 source:c:\users\user\desktop\algorithm\hfold\main.cpp
+	<iostream>
+	<stdlib.h>
+	"huffman.h"
+	"huffmandec.h"
+	<unistd.h>
+	<time.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<dirent.h>
+	<sys/types.h>
+	<string>
+	<stdio.h>
+	<string.h>
+	<iomanip>
+
